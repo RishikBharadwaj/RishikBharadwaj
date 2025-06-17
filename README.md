@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RishikBharadwaj
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me dont come to my home
+- 📫 reach me at - electrons.netlify.app
 - 😄 Pronouns: He/Him/His
 - 🚩 Slogan:
 -  यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।
